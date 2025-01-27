@@ -84,24 +84,6 @@ int main() {
     }
     
 
-        /*
-        //Realizamos la suma de la primer mitad del arreglo con el primer hilo
-        if (i == 0) {
-            //Llenamos el arreglo R (resultados) con la suma de los arreglos A y B
-            for (int i = 0; i < SIZE/2; i++) {
-                arregloR[i] = arregloA[i] + arregloB[i];
-            }
-        }
-
-        //Realizamos la suma de la segunda mitad del arreglo con el segundo hilo
-        else if (i == 1) {            
-            //Llenamos el arreglo R (resultados) con la suma de los arreglos A y B
-            for (int i = 10; i < SIZE; i++) {
-                arregloR[i] = arregloA[i] + arregloB[i];
-            }
-        } */
-
-
 
 
     std::cout << "----------------------------------------------------------------------------------------";
