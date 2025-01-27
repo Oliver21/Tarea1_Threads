@@ -1,0 +1,3 @@
+﻿  Threads.cpp
+C:\Users\oliver\Desktop\Threads\Threads.cpp(31,25): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Threads.vcxproj -> C:\Users\oliver\Desktop\Threads\Debug\Threads.exe
